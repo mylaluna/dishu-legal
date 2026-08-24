@@ -1,4 +1,4 @@
-# nostalgia-legal
+# lainote-legal
 
 Hosting legal documents and pages for LaiNote (formerly Nostalgia Memorial).
 
