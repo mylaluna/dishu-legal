@@ -1,4 +1,4 @@
-# lainote-legal
+# dishu-legal
 
 Hosting legal documents and pages for DiShu (formerly LaiNote).
 
